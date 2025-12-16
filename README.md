@@ -63,10 +63,12 @@ endmodule
 */
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
-<img width="1006" height="795" alt="Screenshot 2025-12-16 200907" src="https://github.com/user-attachments/assets/0485e8ac-c07a-4497-b942-9c81405e0f0a" />
+<img width="1006" height="795" alt="Ripple counter logic circuit" src="https://github.com/user-attachments/assets/291a3345-016e-4d14-a1f8-1da19730152c" />
+
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-<img width="1367" height="780" alt="Screenshot 2025-12-16 200918" src="https://github.com/user-attachments/assets/e3111ab3-1bef-47f3-b048-3223b284dbd1" />
+ <img width="1367" height="780" alt="Ripple counter timing diagram" src="https://github.com/user-attachments/assets/90fd3fb3-2c22-489b-8967-bde768d10b29" />
+
 
 **RESULTS**
  The 4-bit ripple counter was successfully implemented using Verilog in Quartus Prime.
